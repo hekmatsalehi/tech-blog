@@ -1,0 +1,25 @@
+
+
+.header { 
+  background: rgb(53, 34, 34);
+  height: 180px;
+  padding: 30px;
+}
+
+.custom-btn, h1 { 
+  margin: 5px;
+}
+
+h1, .custom-btn a { 
+  color: whitesmoke;
+}
+
+.custom-btn a:hover {
+  color: whitesmoke
+}
+
+.card {
+  padding: 10px;
+  background-color: rgb(142, 142, 142) ;
+}
+
